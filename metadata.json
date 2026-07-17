@@ -1,0 +1,8 @@
+{
+  "name": "The Oppenheim Group Real Estate",
+  "description": "A professional, editorial luxury real estate brokerage website with a premium cinematic design and custom interactive galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
